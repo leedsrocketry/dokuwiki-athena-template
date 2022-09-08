@@ -1,7 +1,7 @@
 base     starter
-author   Anika Henke
-email    anika@selfthinker.org
-date     2021-01-25
-name     Starter Template
-desc     The template that gets you started
-url      https://www.dokuwiki.org/template:starter
+author   Toby Thomson
+email    el21tbt@leeds.ac.uk
+date     2022-09-08
+name     Athena
+desc     Template for the Leeds University Rocketry Association (LURA) wiki, Athena
+url      https://www.leedsrocketry.co.uk
